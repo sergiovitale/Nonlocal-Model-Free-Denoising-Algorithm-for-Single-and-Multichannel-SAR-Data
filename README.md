@@ -1,4 +1,4 @@
-In this repository you can finde the matlab code associated to the IEEE TGRS paper 
+In this repository you can find the matlab code associated to the IEEE TGRS paper 
 [Nonlocal Model-Free Denoising Algorithm for Single- and Multichannel SAR Data](https://ieeexplore.ieee.org/document/9611274)).
 
 This is meant as a unified framework for SAR denosining: single channel, multi-channel and interferometric phase
