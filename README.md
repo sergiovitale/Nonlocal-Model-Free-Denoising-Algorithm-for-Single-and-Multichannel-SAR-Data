@@ -25,6 +25,8 @@ In order to use the code you should provide as input:
 - **win_size:** the search window size (typical values are 21x21 or 23x23)
 - **Look:** is the number of look used for estimating the covariance matrix
 
+for more details, please refer to the paper implementation details or contact us.
+
 # Team members
 Hossein Aghababaei (contact person, h.aghababaei@utwente.nl)
 Giampaolo Ferraioli (giampaolo.ferraioli@uniparthenope.it);
