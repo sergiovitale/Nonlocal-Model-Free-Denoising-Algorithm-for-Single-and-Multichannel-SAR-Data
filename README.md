@@ -5,8 +5,8 @@ This is meant as a unified framework for SAR denosining: single channel, multi-c
 The code has meant for reaerch purpose
 If you use it, please cite as the following:
 
-*H. Aghababaei, G. Ferraioli, S. Vitale, R. Zamani, G. Schirinzi and V. Pascazio, "Nonlocal Model-Free Denoising Algorithm for Single- and Multichannel SAR Data," 
-in IEEE Transactions on Geoscience and Remote Sensing, vol. 60, pp. 1-15, 2022, Art no. 5217315, doi: 10.1109/TGRS.2021.3127109.*
+H. Aghababaei, G. Ferraioli, S. Vitale, R. Zamani, G. Schirinzi and V. Pascazio, "*Nonlocal Model-Free Denoising Algorithm for Single- and Multichannel SAR Data,*" 
+in IEEE Transactions on Geoscience and Remote Sensing, vol. 60, pp. 1-15, 2022, Art no. 5217315, doi: 10.1109/TGRS.2021.3127109.
 
 # Usage 
 You can find:
