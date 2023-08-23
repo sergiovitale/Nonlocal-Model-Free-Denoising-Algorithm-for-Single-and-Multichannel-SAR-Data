@@ -10,7 +10,7 @@ in IEEE Transactions on Geoscience and Remote Sensing, vol. 60, pp. 1-15, 2022, 
 
 # Usage 
 You can find:
-1. the matlab code for execting the method
+1. the matlab code of the method
 ```
 Stc_McSAR.m
 ```
@@ -18,8 +18,17 @@ Stc_McSAR.m
 ```
 ESAR.mat
 ```
-
-In order to use the code you should provide as input:
+3. Auxiliar codes
+```
+mask_window.m
+weight_fcn.m
+Pauli_C.m
+```
+4. A demo for running the code on the available data:
+```
+demo.m
+```
+In order to filter your specified the code you should provide as input:
 - **Cin:** the covariance matrix of the image
 - **Patch_size:** the local window size (typical values are 3x3)
 - **win_size:** the search window size (typical values are 21x21 or 23x23)
